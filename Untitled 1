@@ -1,0 +1,16 @@
+# Getting Started
+##HTML
+
+<html>
+
+	<head>
+		<title>My first html page </tile>
+	</head>
+	<body>
+		My first html page with body
+	</body>
+
+</html>
+
+/src/main/resources/META-INF/resources/WEB-INF/jsp/sayHello.jsp
+sayHEllo.jsp
